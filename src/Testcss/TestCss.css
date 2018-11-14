@@ -1,0 +1,35 @@
+.Test1{
+	margin-top: 400px;
+	text-align: center;
+}
+
+.head{
+	background: red url('https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940')
+	 round  top ;
+	 background-blend-mode: lighten;
+	
+}
+
+#head2{
+	border: 1px solid red;
+	border-radius: 100px;
+	border-top-style: dotted;
+	border-bottom-color: green;
+	border-bottom-width: 10px;
+	border-left-style: double;
+}
+.p1{
+	border: 1px solid black; 
+	
+	margin: 10px 50px 30px 40px ; 
+}
+
+.p2{
+	border: 1px solid black;
+	padding: 10px 20px 30px 40px;
+}
+.di{
+	height: 200px;
+	width: 100%;
+	background-color: red;
+}
