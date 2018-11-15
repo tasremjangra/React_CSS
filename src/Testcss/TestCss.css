@@ -33,3 +33,39 @@
 	width: 100%;
 	background-color: red;
 }
+.outline{
+	outline-style: solid;
+	outline-color: yellow;
+	border: 1px solid green;
+	outline-width: 20px;
+	width: 1100px;
+	outline-offset: 10px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 80px;
+}
+.Justfy{
+	border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 250px;
+    text-align: justify;
+    margin-left: 20px;
+    text-indent: 20px;
+}
+.Shadow{
+	text-shadow: 3px 2px red;
+}
+.fontSize{
+	font-family: "Times New Roman" ,Times, serif;  
+}
+#tr{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa{
+	font-size: 50px;
+	padding-left: 20px;
+	color: red;
+	
+}
